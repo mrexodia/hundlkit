@@ -1,1 +1,5 @@
-# Hacking Updates & Discussion - Let's Keep It Tech FAQ
+# Hacking Updates & Discussion - Let's Keep It Tech
+
+## Rules
+
+## FAQ
