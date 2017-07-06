@@ -6,7 +6,7 @@
 
 ## FAQ
 
-Q: Auestion?
+Q: Question?
 
 A: Answer.
 
