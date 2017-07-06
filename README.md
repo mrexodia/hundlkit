@@ -2,4 +2,14 @@
 
 ## Rules
 
+- I don't know
+
 ## FAQ
+
+Q: Auestion?
+
+A: Answer.
+
+## Wiki
+
+The community [wiki](https://github.com/mrexodia/hundlkit/wiki) is freely editable by everyone. Feel free to help out.
